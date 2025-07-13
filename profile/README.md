@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome to DevHopeHub 👨‍💻🚀
 
-<!--
+**DevHopeHub** is a student-led GitHub organization focused on building innovative, open-source projects that solve real-world problems through code.
 
-**Here are some ideas to get you started:**
+We participate in hackathons, collaborate on meaningful ideas, and learn by building.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> Innovate. Build. Impact.
